@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 /**
  * Created by marinatarasova on 02/13/2023
+ * This program is for practice
  */
 public class FileSearchHandler {
     public static void main(String[] args){
