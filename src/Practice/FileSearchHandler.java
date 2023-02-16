@@ -45,5 +45,5 @@ public class FileSearchHandler {
         } catch (FileNotFoundException e) {
             System.out.println("File " + e.getMessage());
         }
-        }
     }
+}
