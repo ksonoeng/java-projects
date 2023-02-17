@@ -10,8 +10,9 @@ public class Break_Continue {
         while (value < 20 && value > 5) {
             System.out.println("Print value " + value);
             value--;
-            if(value == 10){
-                System.out.println(nextLine + "You've riched the point.");
+            if (value == 10)
+            {
+                System.out.println(nextLine + "You've reached the point.");
                 break;
             }
         }
