@@ -1,4 +1,4 @@
-# Semanticbits Interview API
+# API
 
 ## Installation
 
